@@ -1,0 +1,2002 @@
+[
+  {
+    "question_id": 1,
+    "question": "What two rivers meet to form the Ohio in Pittsburgh?",
+    "predicted_answer_raw": "Allegheny River and Monongahela River",
+    "normalized_prediction": "allegheny river and monongahela river",
+    "reference_answers_raw": [
+      "Allegheny and Monongahela."
+    ],
+    "normalized_references": [
+      "allegheny and monongahela"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.7499999999999999,
+    "processing_time_seconds": 6.854280948638916,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "What did farmers rebel against during the Whiskey Rebellion in 1794?",
+    "predicted_answer_raw": "Federal taxes on whiskey",
+    "normalized_prediction": "federal taxes on whiskey",
+    "reference_answers_raw": [
+      "Federal taxes on whiskey."
+    ],
+    "normalized_references": [
+      "federal taxes on whiskey"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 3.0712249279022217,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "In what year did steel production begin in Pittsburgh?",
+    "predicted_answer_raw": "1875\n",
+    "normalized_prediction": "1875",
+    "reference_answers_raw": [
+      "1875."
+    ],
+    "normalized_references": [
+      "1875"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.956845998764038,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "What was Pittsburgh called during World War II?",
+    "predicted_answer_raw": "Arsenal of Democracy",
+    "normalized_prediction": "arsenal of democracy",
+    "reference_answers_raw": [
+      "Arsenal of Democracy."
+    ],
+    "normalized_references": [
+      "arsenal of democracy"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 1.7049810886383057,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "By 1700, which native confederacy held dominion over the upper Ohio valley?",
+    "predicted_answer_raw": "Haudenosaunee",
+    "normalized_prediction": "haudenosaunee",
+    "reference_answers_raw": [
+      "Haudenosaunee (Iroquois Confederacy)."
+    ],
+    "normalized_references": [
+      "haudenosaunee iroquois confederacy"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.5,
+    "processing_time_seconds": 3.214653968811035,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "What is the name of the attraction developed at the former P&LE Railroad site?",
+    "predicted_answer_raw": "Station Square",
+    "normalized_prediction": "station square",
+    "reference_answers_raw": [
+      "A mixed-use historic adaptive reuse development.(Station Square.)"
+    ],
+    "normalized_references": [
+      "mixeduse historic adaptive reuse developmentstation square"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.25,
+    "processing_time_seconds": 3.0868031978607178,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "What two stadiums replaced Three Rivers Stadium in 2001?",
+    "predicted_answer_raw": "Heinz Field and PNC Park",
+    "normalized_prediction": "heinz field and pnc park",
+    "reference_answers_raw": [
+      "Heinz Field and PNC Park."
+    ],
+    "normalized_references": [
+      "heinz field and pnc park"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 3.4411070346832275,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_things-to-do_pittsburgh-sports-teams_.txt"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "Who served as mayor of Pittsburgh from 1946 to 1959?",
+    "predicted_answer_raw": "David Lawrence",
+    "normalized_prediction": "david lawrence",
+    "reference_answers_raw": [
+      "David L. Lawrence."
+    ],
+    "normalized_references": [
+      "david l lawrence"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.8,
+    "processing_time_seconds": 2.1866660118103027,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "In what two seasons of year Pittsburgh Restaurant Week is celebrated?",
+    "predicted_answer_raw": "Summer and Winter",
+    "normalized_prediction": "summer and winter",
+    "reference_answers_raw": [
+      "Winter and summer.(August 12-18 and January 15-21.)"
+    ],
+    "normalized_references": [
+      "winter and summeraugust 1218 and january 1521"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.4,
+    "processing_time_seconds": 2.2584080696105957,
+    "retrieved_sources": [
+      "knowledge_base_raw/pittsburghrestaurantweek.com_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "What seasonal food event in Pittsburgh runs from Ash Wednesday until Easter Friday?",
+    "predicted_answer_raw": "Fish Fry Season",
+    "normalized_prediction": "fish fry season",
+    "reference_answers_raw": [
+      "Fish Fry Season."
+    ],
+    "normalized_references": [
+      "fish fry season"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.477950096130371,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt",
+      "knowledge_base_raw/pittsburghrestaurantweek.com_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "What event takes place at Stage AE on March 4, 2024, showcasing international food?",
+    "predicted_answer_raw": "One Big Table",
+    "normalized_prediction": "one big table",
+    "reference_answers_raw": [
+      "One Big Table: An International Feasting."
+    ],
+    "normalized_references": [
+      "one big table international feasting"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.7499999999999999,
+    "processing_time_seconds": 2.588773250579834,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "What is the name of the largest dessert festival in the country, happening in Pittsburgh on April 27, 2024?",
+    "predicted_answer_raw": "Dessert Wars",
+    "normalized_prediction": "dessert wars",
+    "reference_answers_raw": [
+      "Dessert Wars."
+    ],
+    "normalized_references": [
+      "dessert wars"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.861166000366211,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "In what neighborhood does Little Italy Days take place?",
+    "predicted_answer_raw": "Bloomfield",
+    "normalized_prediction": "bloomfield",
+    "reference_answers_raw": [
+      "Bloomfield."
+    ],
+    "normalized_references": [
+      "bloomfield"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.5375759601593018,
+    "retrieved_sources": [
+      "knowledge_base_raw/littleitalydays.com.txt",
+      "knowledge_base_raw/littleitalydays.com.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "What specific food item is celebrated at the annual Picklesburgh festival?",
+    "predicted_answer_raw": "Dill pickle",
+    "normalized_prediction": "dill pickle",
+    "reference_answers_raw": [
+      "The dill pickle."
+    ],
+    "normalized_references": [
+      "dill pickle"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.8000612258911133,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.picklesburgh.com_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "What is the name of the festival celebrating tacos and the city's Latin-American community on September 14, 2024?",
+    "predicted_answer_raw": "The Original Pittsburgh Taco Festival",
+    "normalized_prediction": "original pittsburgh taco festival",
+    "reference_answers_raw": [
+      "The Original Pittsburgh Taco Festival."
+    ],
+    "normalized_references": [
+      "original pittsburgh taco festival"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 3.03912615776062,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt",
+      "knowledge_base_raw/www.pghtacofest.com_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "What type of festival takes place in December in the Lawrenceville neighborhood?",
+    "predicted_answer_raw": "Lawrenceville Cookie Tour",
+    "normalized_prediction": "lawrenceville cookie tour",
+    "reference_answers_raw": [
+      "Lawrenceville Cookie Tour."
+    ],
+    "normalized_references": [
+      "lawrenceville cookie tour"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 1.8471169471740723,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt",
+      "knowledge_base_raw/www.pghcitypaper.com_pittsburgh_EventSearch_v_d.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "What color do people in Pittsburgh often say they \"bleed\" for their sports teams?",
+    "predicted_answer_raw": "Black and gold",
+    "normalized_prediction": "black and gold",
+    "reference_answers_raw": [
+      "Black and gold."
+    ],
+    "normalized_references": [
+      "black and gold"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.4929399490356445,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_things-to-do_pittsburgh-sports-teams_.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "Which Pittsburgh sports team plays at Acrisure Stadium?",
+    "predicted_answer_raw": "Pittsburgh Steelers",
+    "normalized_prediction": "pittsburgh steelers",
+    "reference_answers_raw": [
+      "Pittsburgh Steelers."
+    ],
+    "normalized_references": [
+      "pittsburgh steelers"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.597540855407715,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_things-to-do_pittsburgh-sports-teams_.txt",
+      "knowledge_base_raw/www.steelers.com.txt"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "What is the name of the Pittsburgh baseball team's stadium?",
+    "predicted_answer_raw": "PNC Park\n",
+    "normalized_prediction": "pnc park",
+    "reference_answers_raw": [
+      "PNC Park."
+    ],
+    "normalized_references": [
+      "pnc park"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.4427149295806885,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.visitpittsburgh.com_things-to-do_pittsburgh-sports-teams_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_things-to-do_pittsburgh-sports-teams_.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "How many times have the Pittsburgh Penguins won the Stanley Cup according to the text?",
+    "predicted_answer_raw": "5\n",
+    "normalized_prediction": "5",
+    "reference_answers_raw": [
+      "5."
+    ],
+    "normalized_references": [
+      "5"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.2542500495910645,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/www.nhl.com_penguins_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_things-to-do_pittsburgh-sports-teams_.txt"
+    ]
+  },
+  {
+    "question_id": 21,
+    "question": "What is the name of the Pittsburgh soccer team?",
+    "predicted_answer_raw": "Riverhounds",
+    "normalized_prediction": "riverhounds",
+    "reference_answers_raw": [
+      "Pittsburgh Riverhounds."
+    ],
+    "normalized_references": [
+      "pittsburgh riverhounds"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.6666666666666666,
+    "processing_time_seconds": 1.6638073921203613,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.visitpittsburgh.com_things-to-do_pittsburgh-sports-teams_.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 22,
+    "question": "What museum at the Heinz History Center celebrates sports in the region?",
+    "predicted_answer_raw": "Western Pennsylvania Sports Museum",
+    "normalized_prediction": "western pennsylvania sports museum",
+    "reference_answers_raw": [
+      "Western Pennsylvania Sports Museum."
+    ],
+    "normalized_references": [
+      "western pennsylvania sports museum"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.711919069290161,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.visitpittsburgh.com_things-to-do_pittsburgh-sports-teams_.txt",
+      "knowledge_base_raw/www.heinzhistorycenter.org.txt",
+      "knowledge_base_raw/www.heinzhistorycenter.org.txt"
+    ]
+  },
+  {
+    "question_id": 23,
+    "question": "What historic firehouse holds memorabilia of Roberto Clemente?",
+    "predicted_answer_raw": "Engine House No.25",
+    "normalized_prediction": "engine house no25",
+    "reference_answers_raw": [
+      "Engine House No.25."
+    ],
+    "normalized_references": [
+      "engine house no25"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.735146999359131,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.visitpittsburgh.com_things-to-do_pittsburgh-sports-teams_.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_List_of_museums_in_Pittsburgh.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_things-to-do_pittsburgh-sports-teams_.txt"
+    ]
+  },
+  {
+    "question_id": 24,
+    "question": "Which universities in Pittsburgh are mentioned as having NCAA Division 1 sports teams?",
+    "predicted_answer_raw": "University of Pittsburgh, Duquesne University, Robert Morris University",
+    "normalized_prediction": "university of pittsburgh duquesne university robert morris university",
+    "reference_answers_raw": [
+      "University of Pittsburgh, Duquesne University, and Robert Morris University."
+    ],
+    "normalized_references": [
+      "university of pittsburgh duquesne university and robert morris university"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.9411764705882353,
+    "processing_time_seconds": 3.0381507873535156,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_things-to-do_pittsburgh-sports-teams_.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 25,
+    "question": "What county is Pittsburgh located in?",
+    "predicted_answer_raw": "Allegheny",
+    "normalized_prediction": "allegheny",
+    "reference_answers_raw": [
+      "Allegheny County."
+    ],
+    "normalized_references": [
+      "allegheny county"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.6666666666666666,
+    "processing_time_seconds": 2.5910348892211914,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/www.britannica.com_place_Pittsburgh.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com.txt"
+    ]
+  },
+  {
+    "question_id": 26,
+    "question": "What is the second-most populous city in Pennsylvania?",
+    "predicted_answer_raw": "Pittsburgh",
+    "normalized_prediction": "pittsburgh",
+    "reference_answers_raw": [
+      "Pittsburgh."
+    ],
+    "normalized_references": [
+      "pittsburgh"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.031712055206299,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 27,
+    "question": "What are two of Pittsburgh's nicknames mentioned in the text?",
+    "predicted_answer_raw": "Terrible Towel\n",
+    "normalized_prediction": "terrible towel",
+    "reference_answers_raw": [
+      "City of Bridges, Steel City (also City of Champions, The 'Burgh, The Paris of Appalachia)."
+    ],
+    "normalized_references": [
+      "city of bridges steel city also city of champions burgh paris of appalachia"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.0,
+    "processing_time_seconds": 2.602959156036377,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 28,
+    "question": "Who is the current mayor of Pittsburgh as mentioned in the text?",
+    "predicted_answer_raw": "Ed Gainey",
+    "normalized_prediction": "ed gainey",
+    "reference_answers_raw": [
+      "Ed Gainey."
+    ],
+    "normalized_references": [
+      "ed gainey"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.4473931789398193,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/pittsburghpa.gov_.txt"
+    ]
+  },
+  {
+    "question_id": 29,
+    "question": "In what year was Pittsburgh incorporated as a city?",
+    "predicted_answer_raw": "1794",
+    "normalized_prediction": "1794",
+    "reference_answers_raw": [
+      "1794."
+    ],
+    "normalized_references": [
+      "1794"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.794509172439575,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 30,
+    "question": "According to the text, what did Pittsburgh focus its energies on after deindustrialization in the 1990s?",
+    "predicted_answer_raw": "healthcare, education, and technology industries",
+    "normalized_prediction": "healthcare education and technology industries",
+    "reference_answers_raw": [
+      "Healthcare, education, and technology industries."
+    ],
+    "normalized_references": [
+      "healthcare education and technology industries"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.2640671730041504,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 31,
+    "question": "What are the names of the two large medical providers mentioned as being in Pittsburgh?",
+    "predicted_answer_raw": "University of Pittsburgh Medical Center and Allegheny Health Network",
+    "normalized_prediction": "university of pittsburgh medical center and allegheny health network",
+    "reference_answers_raw": [
+      "University of Pittsburgh Medical Center (UPMC) and Allegheny Health Network."
+    ],
+    "normalized_references": [
+      "university of pittsburgh medical center upmc and allegheny health network"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.9473684210526316,
+    "processing_time_seconds": 2.861846923828125,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 32,
+    "question": "How many bridges is Pittsburgh sometimes called the \"City of Bridges\" for having?",
+    "predicted_answer_raw": "446",
+    "normalized_prediction": "446",
+    "reference_answers_raw": [
+      "446."
+    ],
+    "normalized_references": [
+      "446"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 3.164539098739624,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 33,
+    "question": "What is the name of the museum dedicated to Andy Warhol in Pittsburgh?",
+    "predicted_answer_raw": "Andy Warhol Museum",
+    "normalized_prediction": "andy warhol museum",
+    "reference_answers_raw": [
+      "Andy Warhol Museum."
+    ],
+    "normalized_references": [
+      "andy warhol museum"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.8816912174224854,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_List_of_museums_in_Pittsburgh.txt",
+      "knowledge_base_raw/www.britannica.com_place_Pittsburgh.txt",
+      "knowledge_base_raw/carnegiemuseums.org.txt"
+    ]
+  },
+  {
+    "question_id": 34,
+    "question": "What three major league professional sports teams are located in Pittsburgh?",
+    "predicted_answer_raw": "Steelers, Penguins, Pirates",
+    "normalized_prediction": "steelers penguins pirates",
+    "reference_answers_raw": [
+      "Pittsburgh Steelers, Pittsburgh Penguins, and Pittsburgh Pirates."
+    ],
+    "normalized_references": [
+      "pittsburgh steelers pittsburgh penguins and pittsburgh pirates"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.6,
+    "processing_time_seconds": 2.076166868209839,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.visitpittsburgh.com_things-to-do_pittsburgh-sports-teams_.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 35,
+    "question": "What is the nickname for locals who speak the Pittsburgh English dialect?",
+    "predicted_answer_raw": "Yinzers",
+    "normalized_prediction": "yinzers",
+    "reference_answers_raw": [
+      "Yinzers."
+    ],
+    "normalized_references": [
+      "yinzers"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 1.9823482036590576,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 36,
+    "question": "What is the average amount of time people spend commuting with public transit in Pittsburgh on a weekday?",
+    "predicted_answer_raw": "73 minutes",
+    "normalized_prediction": "73 minutes",
+    "reference_answers_raw": [
+      "73 minutes."
+    ],
+    "normalized_references": [
+      "73 minutes"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 3.7032699584960938,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/apps.pittsburghpa.gov_redtail_images_23255_2024_Operating_Budget.pdf.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 37,
+    "question": "What is the elevation of the highest point in the city?",
+    "predicted_answer_raw": "I don't know",
+    "normalized_prediction": "i dont know",
+    "reference_answers_raw": [
+      "1,370 ft (420 m)."
+    ],
+    "normalized_references": [
+      "1370 ft 420 m"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.0,
+    "processing_time_seconds": 2.3172547817230225,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 38,
+    "question": "What is the warmest month of the year in Pittsburgh by average temperature?",
+    "predicted_answer_raw": "July",
+    "normalized_prediction": "july",
+    "reference_answers_raw": [
+      "July."
+    ],
+    "normalized_references": [
+      "july"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 3.6982290744781494,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 39,
+    "question": "What percentage of Pittsburgh's population was White according to the 2020 census?",
+    "predicted_answer_raw": "64.7%",
+    "normalized_prediction": "647",
+    "reference_answers_raw": [
+      "64.7%."
+    ],
+    "normalized_references": [
+      "647"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 4.246105909347534,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 40,
+    "question": "What is the largest employer in the city of Pittsburgh?",
+    "predicted_answer_raw": "University of Pittsburgh Medical Center",
+    "normalized_prediction": "university of pittsburgh medical center",
+    "reference_answers_raw": [
+      "University of Pittsburgh Medical Center (UPMC)."
+    ],
+    "normalized_references": [
+      "university of pittsburgh medical center upmc"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.9090909090909091,
+    "processing_time_seconds": 3.336832046508789,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 41,
+    "question": "What is the name of the complex where Google has offices in a former Nabisco factory?",
+    "predicted_answer_raw": "Bakery Square",
+    "normalized_prediction": "bakery square",
+    "reference_answers_raw": [
+      "Bakery Square."
+    ],
+    "normalized_references": [
+      "bakery square"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 3.042635917663574,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 42,
+    "question": "What annual pickle-themed festival is held in Pittsburgh?",
+    "predicted_answer_raw": "Picklesburgh",
+    "normalized_prediction": "picklesburgh",
+    "reference_answers_raw": [
+      "Picklesburgh."
+    ],
+    "normalized_references": [
+      "picklesburgh"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.8439512252807617,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt",
+      "knowledge_base_raw/www.picklesburgh.com_.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 43,
+    "question": "What is the name of the classical music venue that is home to the Pittsburgh Symphony Orchestra?",
+    "predicted_answer_raw": "Heinz Hall",
+    "normalized_prediction": "heinz hall",
+    "reference_answers_raw": [
+      "Heinz Hall for the Performing Arts."
+    ],
+    "normalized_references": [
+      "heinz hall for performing arts"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.5714285714285715,
+    "processing_time_seconds": 2.375847101211548,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.britannica.com_place_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/www.pghcitypaper.com_pittsburgh_EventSearch_v_d.txt"
+    ]
+  },
+  {
+    "question_id": 44,
+    "question": "What science center in Pittsburgh offers interactive technology and science exhibits?",
+    "predicted_answer_raw": "Carnegie Science Center",
+    "normalized_prediction": "carnegie science center",
+    "reference_answers_raw": [
+      "Kamin Science Center."
+    ],
+    "normalized_references": [
+      "kamin science center"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.6666666666666666,
+    "processing_time_seconds": 2.93853497505188,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_List_of_museums_in_Pittsburgh.txt",
+      "knowledge_base_raw/www.pghcitypaper.com_pittsburgh_EventSearch_v_d.txt"
+    ]
+  },
+  {
+    "question_id": 45,
+    "question": "What amusement park is located near Pittsburgh in West Mifflin?",
+    "predicted_answer_raw": "Kennywood",
+    "normalized_prediction": "kennywood",
+    "reference_answers_raw": [
+      "Kennywood."
+    ],
+    "normalized_references": [
+      "kennywood"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.3267149925231934,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.britannica.com_place_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/www.britannica.com_place_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 46,
+    "question": "Which famous virologist developed a polio vaccine while a professor at the University of Pittsburgh?",
+    "predicted_answer_raw": "Jonas Salk",
+    "normalized_prediction": "jonas salk",
+    "reference_answers_raw": [
+      "Jonas Salk."
+    ],
+    "normalized_references": [
+      "jonas salk"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 3.1501739025115967,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 47,
+    "question": "What is the name of the light rail system run by Pittsburgh Regional Transit?",
+    "predicted_answer_raw": "T",
+    "normalized_prediction": "t",
+    "reference_answers_raw": [
+      "The \"T\"."
+    ],
+    "normalized_references": [
+      "t"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.7331581115722656,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 48,
+    "question": "Which local golf course has hosted the U.S. Open the most times?",
+    "predicted_answer_raw": "Suburban Oakmont Country Club",
+    "normalized_prediction": "suburban oakmont country club",
+    "reference_answers_raw": [
+      "Oakmont Country Club."
+    ],
+    "normalized_references": [
+      "oakmont country club"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.8571428571428571,
+    "processing_time_seconds": 3.018012046813965,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/littleitalydays.com.txt"
+    ]
+  },
+  {
+    "question_id": 49,
+    "question": "What is the effective date of the Non-Resident Sports Facility Usage Fee Regulations?",
+    "predicted_answer_raw": "2005",
+    "normalized_prediction": "2005",
+    "reference_answers_raw": [
+      "1/1/2017."
+    ],
+    "normalized_references": [
+      "112017"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.0,
+    "processing_time_seconds": 3.1684610843658447,
+    "retrieved_sources": [
+      "knowledge_base_raw/apps.pittsburghpa.gov_redtail_images_23255_2024_Operating_Budget.pdf.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt"
+    ]
+  },
+  {
+    "question_id": 50,
+    "question": "Who is authorized to enforce these regulations?",
+    "predicted_answer_raw": "The Treasurer of the City of Pittsburgh.",
+    "normalized_prediction": "treasurer of city of pittsburgh",
+    "reference_answers_raw": [
+      "Treasurer (Director of the Department of Finance)."
+    ],
+    "normalized_references": [
+      "treasurer director of department of finance"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.5454545454545454,
+    "processing_time_seconds": 4.047725677490234,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9625_parking_tax_regulations..txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt"
+    ]
+  },
+  {
+    "question_id": 51,
+    "question": "What is the rate of the fee imposed on nonresidents using a publicly funded facility?",
+    "predicted_answer_raw": "3 percent\n",
+    "normalized_prediction": "3 percent",
+    "reference_answers_raw": [
+      "Three (3) percent of Earned Income."
+    ],
+    "normalized_references": [
+      "three 3 percent of earned income"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.5,
+    "processing_time_seconds": 4.50929594039917,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt",
+      "knowledge_base_raw/apps.pittsburghpa.gov_redtail_images_23255_2024_Operating_Budget.pdf.txt",
+      "knowledge_base_raw/apps.pittsburghpa.gov_redtail_images_23255_2024_Operating_Budget.pdf.txt"
+    ]
+  },
+  {
+    "question_id": 52,
+    "question": "According to the regulations, what are two examples of a \"Publicly Funded Facility\"?",
+    "predicted_answer_raw": "PPG Paints Arena, David Lawrence Convention Center",
+    "normalized_prediction": "ppg paints arena david lawrence convention center",
+    "reference_answers_raw": [
+      "PPG Paints Arena, David L. Lawrence Convention Center, Heinz Field (Acrisure Stadium), PNC Park, Peterson Event Center, Stage AE."
+    ],
+    "normalized_references": [
+      "ppg paints arena david l lawrence convention center heinz field acrisure stadium pnc park peterson event center stage ae"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.5384615384615384,
+    "processing_time_seconds": 3.6719961166381836,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt"
+    ]
+  },
+  {
+    "question_id": 53,
+    "question": "How long must Qualified Managing Entities and Contracting Parties preserve records?",
+    "predicted_answer_raw": "three (3) years",
+    "normalized_prediction": "three 3 years",
+    "reference_answers_raw": [
+      "Three (3) years."
+    ],
+    "normalized_references": [
+      "three 3 years"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 3.1902947425842285,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9625_parking_tax_regulations..txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt"
+    ]
+  },
+  {
+    "question_id": 54,
+    "question": "What is the penalty rate per month for late payment of the usage fee?",
+    "predicted_answer_raw": "I don't know\n",
+    "normalized_prediction": "i dont know",
+    "reference_answers_raw": [
+      "One (1) percent per month (not to exceed fifteen percent (15%) in the aggregate)."
+    ],
+    "normalized_references": [
+      "one 1 percent per month not to exceed fifteen percent 15 in aggregate"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.0,
+    "processing_time_seconds": 3.5304369926452637,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt"
+    ]
+  },
+  {
+    "question_id": 55,
+    "question": "How often must returns for the usage fee be filed?",
+    "predicted_answer_raw": "three (3) years\n",
+    "normalized_prediction": "three 3 years",
+    "reference_answers_raw": [
+      "Quarterly (on or before April 30, July 31, October 31 of the current year, and January 31 of the succeeding year)."
+    ],
+    "normalized_references": [
+      "quarterly on or before april 30 july 31 october 31 of current year and january 31 of succeeding year"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.0,
+    "processing_time_seconds": 3.6235499382019043,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt"
+    ]
+  },
+  {
+    "question_id": 56,
+    "question": "What is the definition of a \"Nonresident\" according to these regulations?",
+    "predicted_answer_raw": "any person domiciled outside of the City.\n",
+    "normalized_prediction": "any person domiciled outside of city",
+    "reference_answers_raw": [
+      "Any person domiciled outside of the City."
+    ],
+    "normalized_references": [
+      "any person domiciled outside of city"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 3.5613131523132324,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt"
+    ]
+  },
+  {
+    "question_id": 57,
+    "question": "What band is playing the Smiling Moose on May 18, 2025?",
+    "predicted_answer_raw": "SPREAD EAGLE",
+    "normalized_prediction": "spread eagle",
+    "reference_answers_raw": [
+      "Spread Eagle."
+    ],
+    "normalized_references": [
+      "spread eagle"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 3.344395160675049,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pghcitypaper.com_pittsburgh_EventSearch_v_d.txt",
+      "knowledge_base_raw/downtownpittsburgh.com_events_.txt",
+      "knowledge_base_raw/downtownpittsburgh.com_events_.txt"
+    ]
+  },
+  {
+    "question_id": 58,
+    "question": "What annual festival in Pittsburgh celebrates pickling?",
+    "predicted_answer_raw": "Picklesburgh",
+    "normalized_prediction": "picklesburgh",
+    "reference_answers_raw": [
+      "Picklesburgh."
+    ],
+    "normalized_references": [
+      "picklesburgh"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.789802074432373,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt",
+      "knowledge_base_raw/www.picklesburgh.com_.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 59,
+    "question": "What neighborhood hosts the annual Little Italy Days festival?",
+    "predicted_answer_raw": "Bloomfield",
+    "normalized_prediction": "bloomfield",
+    "reference_answers_raw": [
+      "Bloomfield."
+    ],
+    "normalized_references": [
+      "bloomfield"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.5246028900146484,
+    "retrieved_sources": [
+      "knowledge_base_raw/littleitalydays.com.txt",
+      "knowledge_base_raw/littleitalydays.com.txt",
+      "knowledge_base_raw/littleitalydays.com.txt"
+    ]
+  },
+  {
+    "question_id": 60,
+    "question": "Pittsburgh Restaurant Week is celebrated in what two seasons each year?",
+    "predicted_answer_raw": "Winter and Summer",
+    "normalized_prediction": "winter and summer",
+    "reference_answers_raw": [
+      "Winter and Summer."
+    ],
+    "normalized_references": [
+      "winter and summer"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.5335028171539307,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt",
+      "knowledge_base_raw/pittsburghrestaurantweek.com_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt"
+    ]
+  },
+  {
+    "question_id": 61,
+    "question": "What is the name of the annual soup contest held in the South Side neighborhood?",
+    "predicted_answer_raw": "South Side Soup",
+    "normalized_prediction": "south side soup",
+    "reference_answers_raw": [
+      "South Side Soup Contest."
+    ],
+    "normalized_references": [
+      "south side soup contest"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.8571428571428571,
+    "processing_time_seconds": 2.7968289852142334,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt"
+    ]
+  },
+  {
+    "question_id": 62,
+    "question": "What annual event in December takes place in the Lawrenceville neighborhood where participants can sample cookies?",
+    "predicted_answer_raw": "Lawrenceville Cookie Tour",
+    "normalized_prediction": "lawrenceville cookie tour",
+    "reference_answers_raw": [
+      "Joy of Cookies Cookie Tour / Lawrenceville Cookie Tour."
+    ],
+    "normalized_references": [
+      "joy of cookies cookie tour lawrenceville cookie tour"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.5454545454545454,
+    "processing_time_seconds": 2.516422986984253,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt"
+    ]
+  },
+  {
+    "question_id": 63,
+    "question": "What food festival on September 14, 2024, celebrates tacos and the city's Latin-American community?",
+    "predicted_answer_raw": "The Original Pittsburgh Taco Festival",
+    "normalized_prediction": "original pittsburgh taco festival",
+    "reference_answers_raw": [
+      "Pittsburgh Taco Festival."
+    ],
+    "normalized_references": [
+      "pittsburgh taco festival"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.8571428571428571,
+    "processing_time_seconds": 2.133168935775757,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt",
+      "knowledge_base_raw/www.pghtacofest.com_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt"
+    ]
+  },
+  {
+    "question_id": 64,
+    "question": "What culture is celebrated at the Pittsburgh Irish Festival each September?",
+    "predicted_answer_raw": "Irish",
+    "normalized_prediction": "irish",
+    "reference_answers_raw": [
+      "Irish."
+    ],
+    "normalized_references": [
+      "irish"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 1.7010841369628906,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.visitpittsburgh.com_events-festivals_food-festivals_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com_things-to-do_pittsburgh-sports-teams_.txt",
+      "knowledge_base_raw/www.visitpittsburgh.com.txt"
+    ]
+  },
+  {
+    "question_id": 65,
+    "question": "What is the business district of Pittsburgh called according to this text?",
+    "predicted_answer_raw": "Golden Triangle",
+    "normalized_prediction": "golden triangle",
+    "reference_answers_raw": [
+      "Golden Triangle."
+    ],
+    "normalized_references": [
+      "golden triangle"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.544180154800415,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt",
+      "knowledge_base_raw/www.britannica.com_place_Pittsburgh.txt",
+      "knowledge_base_raw/downtownpittsburgh.com_events_.txt"
+    ]
+  },
+  {
+    "question_id": 66,
+    "question": "What year was Pittsburgh incorporated as a city?",
+    "predicted_answer_raw": "1794",
+    "normalized_prediction": "1794",
+    "reference_answers_raw": [
+      "1794."
+    ],
+    "normalized_references": [
+      "1794"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.966886043548584,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 67,
+    "question": "What general expelled the French from Fort Duquesne in 1758?",
+    "predicted_answer_raw": "Forbes",
+    "normalized_prediction": "forbes",
+    "reference_answers_raw": [
+      "General John Forbes."
+    ],
+    "normalized_references": [
+      "general john forbes"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.5,
+    "processing_time_seconds": 2.4951491355895996,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 68,
+    "question": "Who laid out Pittsburgh in 1764?",
+    "predicted_answer_raw": "John Campbell",
+    "normalized_prediction": "john campbell",
+    "reference_answers_raw": [
+      "John Campbell."
+    ],
+    "normalized_references": [
+      "john campbell"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.1847989559173584,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.britannica.com_place_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 69,
+    "question": "By 1850, what was Pittsburgh known as according to this text?",
+    "predicted_answer_raw": "I don't know",
+    "normalized_prediction": "i dont know",
+    "reference_answers_raw": [
+      "Iron City."
+    ],
+    "normalized_references": [
+      "iron city"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.0,
+    "processing_time_seconds": 2.264676809310913,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/www.britannica.com_place_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 70,
+    "question": "What organization central to the city's cultural life includes several museums and the Carnegie Library?",
+    "predicted_answer_raw": "Carnegie Museums of Pittsburgh",
+    "normalized_prediction": "carnegie museums of pittsburgh",
+    "reference_answers_raw": [
+      "Carnegie Museums of Pittsburgh (formerly Carnegie Institute)."
+    ],
+    "normalized_references": [
+      "carnegie museums of pittsburgh formerly carnegie institute"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.7272727272727273,
+    "processing_time_seconds": 2.8174901008605957,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.britannica.com_place_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_List_of_museums_in_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 71,
+    "question": "Where does the Pittsburgh Symphony Orchestra perform?",
+    "predicted_answer_raw": "Heinz Hall",
+    "normalized_prediction": "heinz hall",
+    "reference_answers_raw": [
+      "Heinz Hall."
+    ],
+    "normalized_references": [
+      "heinz hall"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.0167078971862793,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.britannica.com_place_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/www.pghcitypaper.com_pittsburgh_EventSearch_v_d.txt"
+    ]
+  },
+  {
+    "question_id": 72,
+    "question": "What two new sports venues opened on the north bank of the Allegheny River in 2001?",
+    "predicted_answer_raw": "PNC Park and Acrisure Stadium",
+    "normalized_prediction": "pnc park and acrisure stadium",
+    "reference_answers_raw": [
+      "PNC Park and Acrisure Stadium (formerly Heinz Field)."
+    ],
+    "normalized_references": [
+      "pnc park and acrisure stadium formerly heinz field"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.7692307692307693,
+    "processing_time_seconds": 3.4919211864471436,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.britannica.com_place_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_History_of_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 73,
+    "question": "What kind of university is Carnegie Mellon?",
+    "predicted_answer_raw": "Private research university",
+    "normalized_prediction": "private research university",
+    "reference_answers_raw": [
+      "A private, global research university."
+    ],
+    "normalized_references": [
+      "private global research university"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.8571428571428571,
+    "processing_time_seconds": 2.0507328510284424,
+    "retrieved_sources": [
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/www.cmu.edu_about_.txt",
+      "knowledge_base_raw/www.cmu.edu_about_.txt"
+    ]
+  },
+  {
+    "question_id": 74,
+    "question": "Approximately how many countries do CMU students represent?",
+    "predicted_answer_raw": "140+",
+    "normalized_prediction": "140",
+    "reference_answers_raw": [
+      "140+."
+    ],
+    "normalized_references": [
+      "140"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.3864171504974365,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.cmu.edu_about_.txt",
+      "knowledge_base_raw/www.cmu.edu_about_.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 75,
+    "question": "What was the name of the first Robotics Institute established by Carnegie Mellon in 1979?",
+    "predicted_answer_raw": "Robotics Institute",
+    "normalized_prediction": "robotics institute",
+    "reference_answers_raw": [
+      "Robotics Institute."
+    ],
+    "normalized_references": [
+      "robotics institute"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.469041347503662,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.cmu.edu_about_.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/www.cmu.edu_about_.txt"
+    ]
+  },
+  {
+    "question_id": 76,
+    "question": "Who created the first smiley emoticon :-) at Carnegie Mellon in 1982?",
+    "predicted_answer_raw": "Scott Fahlman",
+    "normalized_prediction": "scott fahlman",
+    "reference_answers_raw": [
+      "Scott Fahlman."
+    ],
+    "normalized_references": [
+      "scott fahlman"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.6799306869506836,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.cmu.edu_about_.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/www.cmu.edu_about_.txt"
+    ]
+  },
+  {
+    "question_id": 77,
+    "question": "What famous pop art figure was a Carnegie Mellon alumnus?",
+    "predicted_answer_raw": "Andy Warhol",
+    "normalized_prediction": "andy warhol",
+    "reference_answers_raw": [
+      "Andy Warhol."
+    ],
+    "normalized_references": [
+      "andy warhol"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 1.6253650188446045,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.cmu.edu_about_.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 78,
+    "question": "Over the last 10 years, how much funding have startups linked to CMU raised?",
+    "predicted_answer_raw": "$7 billion",
+    "normalized_prediction": "7 billion",
+    "reference_answers_raw": [
+      "$7 billion."
+    ],
+    "normalized_references": [
+      "7 billion"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.846390962600708,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.cmu.edu_about_.txt",
+      "knowledge_base_raw/apps.pittsburghpa.gov_redtail_images_23255_2024_Operating_Budget.pdf.txt",
+      "knowledge_base_raw/en.wikipedia.org_wiki_Pittsburgh.txt"
+    ]
+  },
+  {
+    "question_id": 79,
+    "question": "Which CMU annual event includes activities like Buggy races?",
+    "predicted_answer_raw": "Homecoming Weekend",
+    "normalized_prediction": "homecoming weekend",
+    "reference_answers_raw": [
+      "Spring Carnival."
+    ],
+    "normalized_references": [
+      "spring carnival"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.0,
+    "processing_time_seconds": 2.4411959648132324,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.cmu.edu_engage_alumni_events_campus_index.html.txt",
+      "knowledge_base_raw/www.cmu.edu_engage_alumni_events_campus_index.html.txt",
+      "knowledge_base_raw/events.cmu.edu.txt"
+    ]
+  },
+  {
+    "question_id": 80,
+    "question": "What CMU annual event takes place each fall?",
+    "predicted_answer_raw": "Homecoming Weekend",
+    "normalized_prediction": "homecoming weekend",
+    "reference_answers_raw": [
+      "Homecoming Weekend."
+    ],
+    "normalized_references": [
+      "homecoming weekend"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 1.695554256439209,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.cmu.edu_engage_alumni_events_campus_index.html.txt",
+      "knowledge_base_raw/events.cmu.edu.txt",
+      "knowledge_base_raw/www.cmu.edu_engage_alumni_events_campus_index.html.txt"
+    ]
+  },
+  {
+    "question_id": 81,
+    "question": "What is the revised date for the Amusement Tax Regulations document?",
+    "predicted_answer_raw": "January 2020",
+    "normalized_prediction": "january 2020",
+    "reference_answers_raw": [
+      "January 2020."
+    ],
+    "normalized_references": [
+      "january 2020"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.6125431060791016,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt"
+    ]
+  },
+  {
+    "question_id": 82,
+    "question": "What kind of permit must every Producer secure before conducting an amusement?",
+    "predicted_answer_raw": "amusement permit",
+    "normalized_prediction": "amusement permit",
+    "reference_answers_raw": [
+      "Amusement Tax Permit."
+    ],
+    "normalized_references": [
+      "amusement tax permit"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.8,
+    "processing_time_seconds": 2.5119779109954834,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt"
+    ]
+  },
+  {
+    "question_id": 83,
+    "question": "Who issues the Amusement Tax Permit?",
+    "predicted_answer_raw": "The Treasurer",
+    "normalized_prediction": "treasurer",
+    "reference_answers_raw": [
+      "License Officer (Bureau of Building Inspection)."
+    ],
+    "normalized_references": [
+      "license officer bureau of building inspection"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.0,
+    "processing_time_seconds": 3.0012569427490234,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt"
+    ]
+  },
+  {
+    "question_id": 84,
+    "question": "Where should a Producer file an application for an amusement permit?",
+    "predicted_answer_raw": "Bureau of Building Inspection",
+    "normalized_prediction": "bureau of building inspection",
+    "reference_answers_raw": [
+      "Bureau of Building Inspection - City Licensing and Permits Office 200 Ross St Room 320 – Pittsburgh PA 15219."
+    ],
+    "normalized_references": [
+      "bureau of building inspection city licensing and permits office 200 ross st room 320 pittsburgh pa 15219"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.38095238095238093,
+    "processing_time_seconds": 2.849382162094116,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt"
+    ]
+  },
+  {
+    "question_id": 85,
+    "question": "What is the rate of the Amusement Tax imposed upon the patron?",
+    "predicted_answer_raw": "5%",
+    "normalized_prediction": "5",
+    "reference_answers_raw": [
+      "Five (5%) percent of the established price."
+    ],
+    "normalized_references": [
+      "five 5 percent of established price"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.2857142857142857,
+    "processing_time_seconds": 3.239198923110962,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt"
+    ]
+  },
+  {
+    "question_id": 86,
+    "question": "Who is responsible for collecting the Amusement Tax from patrons?",
+    "predicted_answer_raw": "The Producers of the activity are responsible for collecting the tax.\n",
+    "normalized_prediction": "producers of activity are responsible for collecting tax",
+    "reference_answers_raw": [
+      "Producers."
+    ],
+    "normalized_references": [
+      "producers"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.2222222222222222,
+    "processing_time_seconds": 3.446153163909912,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt"
+    ]
+  },
+  {
+    "question_id": 87,
+    "question": "How often must Producers file monthly reports with the City Treasurer?",
+    "predicted_answer_raw": "On or before the fifteenth day of the following month.",
+    "normalized_prediction": "on or before fifteenth day of following month",
+    "reference_answers_raw": [
+      "Monthly."
+    ],
+    "normalized_references": [
+      "monthly"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.0,
+    "processing_time_seconds": 3.573064088821411,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9624_local_services_tax_regul.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9625_parking_tax_regulations..txt"
+    ]
+  },
+  {
+    "question_id": 88,
+    "question": "By what day of the following month must Producers transmit their monthly report?",
+    "predicted_answer_raw": "fifteenth day",
+    "normalized_prediction": "fifteenth day",
+    "reference_answers_raw": [
+      "Fifteenth day."
+    ],
+    "normalized_references": [
+      "fifteenth day"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.211299180984497,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt"
+    ]
+  },
+  {
+    "question_id": 89,
+    "question": "What is the penalty added each month if a Producer fails to make a report or payment?",
+    "predicted_answer_raw": "5%",
+    "normalized_prediction": "5",
+    "reference_answers_raw": [
+      "Five (5%) percent."
+    ],
+    "normalized_references": [
+      "five 5 percent"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.5,
+    "processing_time_seconds": 2.951681137084961,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9626_payroll_tax_regulations..txt"
+    ]
+  },
+  {
+    "question_id": 90,
+    "question": "What is the interest rate per month for late payments of the Amusement Tax?",
+    "predicted_answer_raw": "1%",
+    "normalized_prediction": "1",
+    "reference_answers_raw": [
+      "One (1%) percent."
+    ],
+    "normalized_references": [
+      "one 1 percent"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.5,
+    "processing_time_seconds": 3.2312448024749756,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt"
+    ]
+  },
+  {
+    "question_id": 91,
+    "question": "Are admissions to a movie theater considered a Performing Art according to these regulations?",
+    "predicted_answer_raw": "No.",
+    "normalized_prediction": "no",
+    "reference_answers_raw": [
+      "No."
+    ],
+    "normalized_references": [
+      "no"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.9649758338928223,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt"
+    ]
+  },
+  {
+    "question_id": 92,
+    "question": "Must a Producer of home builders' shows collect the Amusement Tax?",
+    "predicted_answer_raw": "Yes.",
+    "normalized_prediction": "yes",
+    "reference_answers_raw": [
+      "Yes."
+    ],
+    "normalized_references": [
+      "yes"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.2476789951324463,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt"
+    ]
+  },
+  {
+    "question_id": 93,
+    "question": "Is good faith a valid defense to the imposition of penalties for violation of these regulations?",
+    "predicted_answer_raw": "I don't know",
+    "normalized_prediction": "i dont know",
+    "reference_answers_raw": [
+      "No."
+    ],
+    "normalized_references": [
+      "no"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.0,
+    "processing_time_seconds": 3.394798994064331,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9623_isp_tax_regulations.pdf.txt"
+    ]
+  },
+  {
+    "question_id": 94,
+    "question": "What is the minimum period required for Producers to preserve records of transactions?",
+    "predicted_answer_raw": "three (3) years",
+    "normalized_prediction": "three 3 years",
+    "reference_answers_raw": [
+      "Three (3) years."
+    ],
+    "normalized_references": [
+      "three 3 years"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 3.1647019386291504,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9625_parking_tax_regulations..txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9627_uf_regulations.pdf.txt"
+    ]
+  },
+  {
+    "question_id": 95,
+    "question": "If a Producer filed a return but no tax was paid, within how many years must a suit be filed to recover the tax?",
+    "predicted_answer_raw": "Three (3) years",
+    "normalized_prediction": "three 3 years",
+    "reference_answers_raw": [
+      "Three (3) years."
+    ],
+    "normalized_references": [
+      "three 3 years"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 3.5019712448120117,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9626_payroll_tax_regulations..txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9623_isp_tax_regulations.pdf.txt"
+    ]
+  },
+  {
+    "question_id": 96,
+    "question": "If no return was filed by a Producer, is there a time limit to file suit for the collection of taxes?",
+    "predicted_answer_raw": "No limit",
+    "normalized_prediction": "no limit",
+    "reference_answers_raw": [
+      "No limit."
+    ],
+    "normalized_references": [
+      "no limit"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 1.092742919921875,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9626_payroll_tax_regulations..txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9623_isp_tax_regulations.pdf.txt"
+    ]
+  },
+  {
+    "question_id": 97,
+    "question": "Is the Amusement Tax collected from Patrons the property of the Producer?",
+    "predicted_answer_raw": "No",
+    "normalized_prediction": "no",
+    "reference_answers_raw": [
+      "No."
+    ],
+    "normalized_references": [
+      "no"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.9242708683013916,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt"
+    ]
+  },
+  {
+    "question_id": 98,
+    "question": "Who holds the Amusement Tax collected from patrons?",
+    "predicted_answer_raw": "The City",
+    "normalized_prediction": "city",
+    "reference_answers_raw": [
+      "The City."
+    ],
+    "normalized_references": [
+      "city"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.5063748359680176,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt"
+    ]
+  },
+  {
+    "question_id": 99,
+    "question": "How many days does a Producer have to review a Patron's refund request for the Amusement Tax?",
+    "predicted_answer_raw": "Sixty days",
+    "normalized_prediction": "sixty days",
+    "reference_answers_raw": [
+      "Sixty days."
+    ],
+    "normalized_references": [
+      "sixty days"
+    ],
+    "exact_match": 1,
+    "f1_score": 1.0,
+    "processing_time_seconds": 2.9564120769500732,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt"
+    ]
+  },
+  {
+    "question_id": 100,
+    "question": "Who can sue in the name of the City for the recovery of unpaid Amusement Taxes?",
+    "predicted_answer_raw": "The Treasurer",
+    "normalized_prediction": "treasurer",
+    "reference_answers_raw": [
+      "Treasurer (Director of Finance)."
+    ],
+    "normalized_references": [
+      "treasurer director of finance"
+    ],
+    "exact_match": 0,
+    "f1_score": 0.4,
+    "processing_time_seconds": 2.826504945755005,
+    "retrieved_sources": [
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt",
+      "knowledge_base_raw/www.pittsburghpa.gov_files_assets_city_v_1_finance_documents_tax-forms_9622_amusement_tax_regulation.txt"
+    ]
+  }
+]
